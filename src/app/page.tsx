@@ -5,7 +5,7 @@ import WorkManagement from "./component/WorkManagement";
 import Footer from "./component/Footer";
 import OurSponsors from "./component/OurSponsors";
 import YourWork from "./component/YourWork";
-import Section from "./component/Section";
+
 import group214 from "@/app/assets/Group 214.png"
 import imagecontainer from "@/app/assets/Image-container.png"
 import CustomiseNeeds from "./component/CustomiseNeeds";
